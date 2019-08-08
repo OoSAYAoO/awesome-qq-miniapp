@@ -15,7 +15,7 @@ QQ小程序官网现已开放注册，个人注册需要手持身份证照片，
 
 ## 前端资源
 
-[taro](https://github.com/NervJS/taro) - 多端统一开发框架 image:https://img.shields.io/github/stars/NervJS/taro?style=flat-square[GitHub stars]
+[taro](https://github.com/NervJS/taro) - 多端统一开发框架 [![taro](https://img.shields.io/github/stars/NervJS/taro?style=flat-square)]
 
 [NUC-Information](https://github.com/Dreace233/NUC-Information) - 中北大学教务
 
